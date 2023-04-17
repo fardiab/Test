@@ -1,0 +1,7 @@
+.env
+env/
+.git
+*.pyc
+*.log
+postgredb/
+app/db.sqlite3
